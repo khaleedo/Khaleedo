@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khalid Ishak</h1>
-<h3 align="center">A passionate devops from Nigeria</h3>
+<h3 align="center">An enthusiastic DevOps Engineer from Nigeria</h3>
 
 - 📫 How to reach me **ogahkhalid@gmail.com**
 
