@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khalid Ishak</h1>
-<h3 align="center">An enthusiastic DevOps Engineer from Nigeria</h3>
+<h3 align="center">🚀 DevOps Engineer | Infrastructure as Code • CI/CD • Kubernetes | Obsessed with automating everything.
+Delivering resilient, observable, production-grade systems.</h3>
 
 - 📫 How to reach me **ogahkhalid@gmail.com**
 
